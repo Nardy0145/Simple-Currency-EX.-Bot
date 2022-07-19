@@ -7,7 +7,8 @@ Requirements:
 
 Instructions:
 1) Install all requirements
-2) Run it with pushing "-token" flag into it
+2) Get your bot api token from <a href="https://t.me/BotFather">bot father</a>
+3) Run it with pushing "-token" flag into it
 
 Example:
 go run main.go -token 54071328:AAGoQSHejy9neSo4q5O
